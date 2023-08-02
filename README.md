@@ -2,7 +2,7 @@
 
 Esse é um projeto simples de react
 
-![Movieland](https://github.com/HebertZachi/Movieland/assets/68403670/b78579f3-24c6-4e35-baf8-e86cfecf8df8)
+<img src="https://github.com/HebertZachi/Movieland/assets/68403670/b78579f3-24c6-4e35-baf8-e86cfecf8df8" width="500" alt="Movieland" align="center">
 
 
 # Technologies Employed
