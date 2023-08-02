@@ -1,5 +1,16 @@
 # Movieland
+
 Esse é um projeto simples de react
+
+![Movieland](https://github.com/HebertZachi/Movieland/assets/68403670/b78579f3-24c6-4e35-baf8-e86cfecf8df8)
+
+
+# Technologies Employed
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
 # Getting Started with Create React App
 
